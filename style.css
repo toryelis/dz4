@@ -1,0 +1,53 @@
+.one{
+display: flex;
+    flex-direction: column;
+}
+.foursquare{
+   margin: 20px;
+    padding: 20px;
+    background-color: blue;
+    height: 120px;
+    width: 120px;
+    border: 1px solid black;
+}
+.two_one{
+     background: aqua;
+    border: 1px solid #B25538;
+    padding: 10px;
+    margin: 20px;
+}
+.two_two{
+    background: darkmagenta;
+    border: 1px solid #B25538;
+    padding: 10px;
+    margin: 20px;
+}
+.three{
+    width: 50%;
+    background: red;
+    position: relative;
+    height: 100px;
+    padding: 100px;
+    margin: auto;
+}
+.kubik{
+     width: 50%;
+    background: blue;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    height: 50px;
+    padding: 50px;
+}
+li:nth-child(1){
+    background: yellow;
+}
+li:hover {
+	color: green;
+}
+#id-2{
+    margin: 100px;
+}
+li:nth-child(3){
+    color:pink;
+}
